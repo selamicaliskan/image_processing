@@ -1,4 +1,5 @@
 
+# image processing repositories'inin içindeki ödevin aynısı (klasöre koymam gerektiği için buraya da koydum. Tarihi orada görebilirsiniz)
 
 # Goruntu isleme 2022-2023 odev 1
 # Selami Caliskan
